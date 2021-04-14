@@ -3,6 +3,7 @@ package com.platform.exchange.service.impl;
 import com.platform.exchange.exception.ErrorMessage;
 import com.platform.exchange.exception.feature.FeatureNotFoundException;
 import com.platform.exchange.model.Feature;
+import com.platform.exchange.model.product.ProductType;
 import com.platform.exchange.repository.FeatureRepository;
 import com.platform.exchange.service.FeatureService;
 import org.springframework.beans.factory.annotation.Autowired;
